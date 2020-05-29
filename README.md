@@ -7,6 +7,8 @@
 
 > 联系我们：Telegram 电报群 https://t.me/pussr
 
+> [TG代理(永久免費)](https://t.me/proxy?server=tg1.crossgfw.org&port=3999&secret=ee6f4d6f590ba812b4faf62c455a71d52f7777772e6f66666963652e636f6d)
+
 
 ## 客户端下载地址
 
@@ -42,13 +44,13 @@
 
 [官方下载](https://telegram.org/dl/desktop/win)
 
-[本站下载](/dos/)
+[本站下载](/download/tportable.2.1.6.zip)
 
 - **Android**
 
 [官方下载](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
-[本站下载](/dos/)
+[本站下载](/download/telegram-6-1-1.apk)
 
 - **iOS**
 

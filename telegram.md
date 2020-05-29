@@ -1,27 +1,22 @@
 # Telegram
 
-#### 1.下载对应客户端，以下以Windows为例； ####
+#### 1.下载对应客户端，并安装,以下以Windows为例； ####
 
-![android-01](/_assets/images/android/an1.jpg)
+![tg1](/_assets/images/tg/tg1.png)
 
 #### 2.打开代理以后，注册账户，使用手机注册； ####
 
-![android-02](/_assets/images/android/an2.jpg)
+![tg2](/_assets/images/tg/tg2.png)
 
-#### 3.打开官网个人中心复制订阅地址； ####
+#### 3.使用本站提供的TG代理(永久免费),汉化客户端； ####
 
-![android-03](/_assets/images/android/an3.jpg)
+[TG代理](https://t.me/proxy?server=tg1.crossgfw.org&port=3999&secret=ee6f4d6f590ba812b4faf62c455a71d52f7777772e6f66666963652e636f6d)
 
-#### 4.返回配置文件，点击右上角【...】-【更新订阅】； ####
+[汉化客户端](tg://setlanguage?lang=zhcncc)
 
-![android-04](/_assets/images/android/an4.jpg)
+#### 4.加入本站官方群； ####
 
-#### 5.选择一个节点 -点击右下角【V】符号开启代理，此时手机上方会出现VNP，表示代理开启； ####
+[此處有座廟](https://t.me/pussr)
 
-![android-05](/_assets/images/android/an5.jpg)
-
-#### 6.此时手机为全局代理，打开浏览器访问Google吧！； ####
-
-
-#### 7.进阶：打开app设置选择分应用代理，可以代理您需要的App； ####
+#### 接下來您將進入第二天堂,這裏可以暢所欲言(請勿違法及道德標準)本站永久提供TG代理,售後可以找群主； ####
 
