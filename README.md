@@ -1,3 +1,5 @@
+欢迎来到 PussrWiki ~ 知识库重建中喵~
+
 
 ## 全平台使用教程
 
@@ -10,7 +12,9 @@
 
 - **Windows**
 
-[SSTap_1.0.9.7](https://files.re/windows/SSTap-beta-setup-1.0.9.7.zip)
+[V2Rayn](https://files.re/windows/SSTap-beta-setup-1.0.9.7.zip)
+
+
 
 - **Android**
 
@@ -27,7 +31,32 @@
 
  
 
-## 售后TG 平台安装客户端及教程
+## Telegram 
+
+[官网](https://telegram.org/)
+
+- **Windows**
+
+[官方下载](https://telegram.org/dl/desktop/win)
+
+[本站下载](/dos/)
+
+- **Android**
+
+[官方下载](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+
+[本站下载](/dos/)
+
+- **iOS**
+
+[官方下载](https://apps.apple.com/app/telegram-messenger/id686449807)
+
+- **Web 在线**
+
+[Web在线](https://web.telegram.org/)
+
+
+
 
 
 

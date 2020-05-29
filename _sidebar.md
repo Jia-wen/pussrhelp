@@ -1,11 +1,13 @@
-* **Introduction**
-    * [简介](README.md)
-    * [博客语法](syntax.md)
-* **JavaScript**
-     * [入门教程](/js/guidebook/)
-     * [函数式编程](/js/functional-programming/)
-     * [设计模式](/js/design-pattern/)
+* **全平台客户端**
+    * [客户端](README.md)
+    * [TG客户端](/#/README?id=telegram)
+* **全平台使用教程**
+     * [Windows](Windows.md)
+     * [Android](android.md)
+     * [iOS](ios.md)
+     * [Telegram](telegram.md)
+     
 
-* **编译原理**
+*    [返回官网](https://www.pussr.net)
 
 
