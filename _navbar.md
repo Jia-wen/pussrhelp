@@ -1,12 +1,8 @@
-* [帮助首页](/)
-* [返回官网](/)
-* [订阅地址](/)
-* 全平台下载
-    * [Windows](/) 
-    * [Android](/)
-    * [iOS](/)
-    * [MacOS](/)
-* TG客户端
-    * [Windows](/)
-    * [Android](/)
-    * [iOS](/)
+* [返回官网](https://www.pussr.net/)
+* [订阅地址](https://www.pussr.net/user)
+* 全平台
+    * [Windows](Windows.md) 
+    * [Android](Android.md)
+    * [iOS](ios.md)
+    * [TG客户端](telegram.md)
+
