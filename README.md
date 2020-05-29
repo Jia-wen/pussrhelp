@@ -12,22 +12,25 @@
 
 - **Windows**
 
-[V2Rayn](https://files.re/windows/SSTap-beta-setup-1.0.9.7.zip)
+[V2Rayn](https://www.pussr.net/ssr-download/v2rayn.zip)
 
+[Github下载](https://github.com/v2ray/dist/)
+
+[Clash for Windows](https://www.pussr.net/ssr-download/Clash-Windows.7z)
 
 
 - **Android**
 
-[SSRR_3.5.1.1](https://files.re/android/SSRR_3.5.1.1.apk)
+[V2Rayng](https://www.pussr.net/ssr-download/v2rayng.apk)
 
 - **macOS**
 
-[ShadowsocksX](https://files.re/macOS/ShadowsocksX-NG-R8.dmg)
+[v2ray-macos](https://github.com/v2ray/dist/raw/master/v2ray-macos.zip)
 
 
 - **iOS**
 
-[Shadowrocket_2.1.23](https://xn--yets78bbhi.club/)
+[Shadowrocket](https://iOS.pussr.net/)
 
  
 
